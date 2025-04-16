@@ -14,7 +14,7 @@
 
 ### 🛠️ Languages & Tools I Use / Have Used
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -34,12 +34,4 @@
 ### 📫 Connect with Me
 Feel free to reach out for collaboration, discussions, or just to say hi!  
 🌐 **Coming soon: Portfolio Website**  
-📧 **Email:** _your_email@example.com_  
-🔗 **LinkedIn / Instagram / GitHub** (tambahkan link jika ada)
-
----
-
-### 📈 GitHub Stats (Optional)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Rizal's GitHub stats" />
-</p>
+📧 **Email:** rizalldnt@gmail.com 
